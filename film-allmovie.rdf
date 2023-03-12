@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:owl="http://www.w3.org/2002/07/owl#"
+        xmlns:dc="http://purl.org/dc/terms/"
+        xmlns:film="https://example.org/schema/film"> 
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Black_Adam_(film)">
+            <film:id>1</film:id>
+            <rdfs:label>Black Adam</rdfs:label>
+            <film:year>2022</film:year>
+            <film:desc>Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.
+            </film:desc>
+            <film:duration>2h 5m</film:duration>
+            <film:rating>7.1/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Fantasy</film:genrethree>
+            <film:poster>https://movies.sterkinekor.co.za/CDN/media/entity/get/FilmTitleGraphic/HO00002385?referenceScheme=HeadOffice</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/mkomfZHG5q4" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/black-adam-v717075" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Mission:_Impossible_(film)">
+            <film:id>2</film:id>
+            <rdfs:label>Mission : Impossible</rdfs:label>
+            <film:year>1996</film:year>
+            <film:desc>An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.
+            </film:desc>
+            <film:duration>1h 50m</film:duration>
+            <film:rating>7.1/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Thriller</film:genrethree>
+            <film:poster>https://image.tmdb.org/t/p/original/tb7XmZPBqgJ4aC8dQV7cwbsYEDx.jpg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/nMaGGmE-rI8" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/mission-impossible-v136348" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Jack_Reacher_(film)">
+            <film:id>3</film:id>
+            <rdfs:label>Jack Reacher </rdfs:label>
+            <film:year>2012</film:year>
+            <film:desc>A homicide investigator digs deeper into a case involving a trained military sniper responsible for a mass shooting.
+            </film:desc>
+            <film:duration>2h 10m</film:duration>
+            <film:rating>7.0/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Mystery</film:genretwo>
+            <film:genrethree>Thriller</film:genrethree>
+            <film:poster>https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/jack-reacher-never-go-back-2.jpg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/Q-oxhxD32MM" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/jack-reacher-v546391" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/The_Fast_and_the_Furious_(2001_film)">
+            <film:id>4</film:id>
+            <rdfs:label>The Fast and The Furious</rdfs:label>
+            <film:year>2001</film:year>
+            <film:desc>Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.
+            </film:desc>
+            <film:duration>1h 46m</film:duration>
+            <film:rating>6.8/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Crime</film:genretwo>
+            <film:genrethree>Thriller</film:genrethree>
+            <film:poster>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/12/The-Fast-and-The-Furious-2001.jpg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/2TAOizOnNPo" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/the-fast-and-the-furious-v245769" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Edge_of_Tomorrow">
+            <film:id>5</film:id>
+            <rdfs:label>Edge of Tomorrow</rdfs:label>
+            <film:year>2014</film:year>
+            <film:desc>A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
+            </film:desc>
+            <film:duration>1h 53m</film:duration>
+            <film:rating>7.9/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Sci-Fi</film:genrethree>
+            <film:poster>https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/04/29/2733002389.jpg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/yUmSVcttXnI" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/live-die-repeat-edge-of-tomorrow-v563177" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/I_Am_Legend_(film)">
+            <film:id>6</film:id>
+            <rdfs:label>I am Legend</rdfs:label>
+            <film:year>2007</film:year>
+            <film:desc>Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.
+            </film:desc>
+            <film:duration>1h 41m</film:duration>
+            <film:rating>7.2/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Drama</film:genretwo>
+            <film:genrethree>Sci-Fi</film:genrethree>
+            <film:poster>https://blogger.googleusercontent.com/img/a/AVvXsEhQDrt5MZ8cpXjuTFm2O9Vfg2ToPNRJ8kVAYgm0AhoJ97HQLYvh3yl86vS083kbyma--Cd0s9zd9jPsSbb7Dod6UpyVNURBadurYcCEtzkiBr4-j5d75mKxhZzvAbST39NveECrqzhiE9PHV0XsvYxohcJnJjaS500CsfjD3WDvtZ_xWjtJJFRAf9gN=w1200-h630-p-k-no-nu</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/dtKMEAXyPkg" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/i-am-legend-v335700" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/The_Martian_(film)">
+            <film:id>7</film:id>
+            <rdfs:label>The Martian</rdfs:label>
+            <film:year>2015</film:year>
+            <film:desc>An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.
+            </film:desc>
+            <film:duration>2h 24m</film:duration>
+            <film:rating>8.0/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Drama</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Sci-Fi</film:genrethree>
+            <film:poster>https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/old_images/MOVIE/2321/1770002321/1770002321-h</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/ej3ioOneTy8" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/the-martian-v598367" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/The_Imitation_Game">
+            <film:id>8</film:id>
+            <rdfs:label>The Imitation Game</rdfs:label>
+            <film:year>2014</film:year>
+            <film:desc>During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.
+            </film:desc>
+            <film:duration>1h 54m</film:duration>
+            <film:rating>8.0/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Biography</film:genreone>
+            <film:genretwo>Drama</film:genretwo>
+            <film:genrethree>Thriller</film:genrethree>
+            <film:poster>https://i2.wp.com/www.lstylegstyle.com/wp-content/uploads/2014/12/The-Imitation-Game-Quad-poster-Benedict-Cumberbatch11.jpg?fit=985%2C565</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/nuPZUUED5uk" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/the-imitation-game-v592994" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Life_of_Pi_(film)">
+            <film:id>9</film:id>
+            <rdfs:label>Life of PI</rdfs:label>
+            <film:year>2012</film:year>
+            <film:desc>A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
+            </film:desc>
+            <film:duration>2h 7m</film:duration>
+            <film:rating>7.9/10</film:rating>
+            <film:movierating>PG</film:movierating>
+            <film:genreone>Drama</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Fantasy</film:genrethree>
+            <film:poster>http://assets.kompasiana.com/statics/crawl/5565c8b50423bd840e8b4567.jpeg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/5GbXVo9DdZo" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/life-of-pi-v481149" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Toy_Story_3">
+            <film:id>10</film:id>
+            <rdfs:label>Toy Story 3</rdfs:label>
+            <film:year>2010</film:year>
+            <film:desc>The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
+            </film:desc>
+            <film:duration>1h 43m</film:duration>
+            <film:rating>8.3/10</film:rating>
+            <film:movierating>G</film:movierating>
+            <film:genreone>Animation</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Comedy</film:genrethree>
+            <film:poster>https://cdn.shopify.com/s/files/1/1416/8662/products/toy_story_3_2010_british_quad_original_film_art_5000x.jpg?v=1586095443</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/JcpWXaA2qeg" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/toy-story-3-v388938" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Finding_Nemo">
+            <film:id>11</film:id>
+            <rdfs:label>Finding Nemo</rdfs:label>
+            <film:year>2003</film:year>
+            <film:desc>After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+            </film:desc>
+            <film:duration>1h 40m</film:duration>
+            <film:rating>8.2/10</film:rating>
+            <film:movierating>G</film:movierating>
+            <film:genreone>Animation</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Comedy</film:genrethree>
+            <film:poster>https://wallpaper.dog/large/5514233.jpg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/SPHfeNgogVs" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/finding-nemo-v278866" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/The_Incredibles">
+            <film:id>12</film:id>
+            <rdfs:label>The Incredibles</rdfs:label>
+            <film:year>2004</film:year>
+            <film:desc>While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.
+            </film:desc>
+            <film:duration>1h 55m</film:duration>
+            <film:rating>8.0/10</film:rating>
+            <film:movierating>PG</film:movierating>
+            <film:genreone>Animation</film:genreone>
+            <film:genretwo>Adventure</film:genretwo>
+            <film:genrethree>Action</film:genrethree>
+            <film:poster>https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AB48117EA822A2A545F91AA4DCA6B387B604B4FC592CFCB6760B9CF13377D30B/scale?width=1200</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/-UaGUdNJdRQ" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/the-incredibles-v287450" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/1917_(2019_film)">
+            <film:id>13</film:id>
+            <rdfs:label>1917</rdfs:label>
+            <film:year>2019</film:year>
+            <film:desc>April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.
+            </film:desc>
+            <film:duration>1h 59m</film:duration>
+            <film:rating>8.2/10</film:rating>
+            <film:movierating>R</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Drama</film:genretwo>
+            <film:genrethree>War</film:genrethree>
+            <film:poster>https://multipolarista.com/wp-content/uploads/2020/02/1917-film-poster.jpeg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/YqNYrYUiMfg" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/1917-v718464" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/Ford_v_Ferrari">
+            <film:id>14</film:id>
+            <rdfs:label>Ford v Ferrari</rdfs:label>
+            <film:year>2019</film:year>
+            <film:desc>American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.
+            </film:desc>
+            <film:duration>2h 32m</film:duration>
+            <film:rating>8.1/10</film:rating>
+            <film:movierating>PG-13</film:movierating>
+            <film:genreone>Action</film:genreone>
+            <film:genretwo>Biography</film:genretwo>
+            <film:genrethree>Drama</film:genrethree>
+            <film:poster>https://asset.indosport.com/article/image/q/80/298642/ford_vs_ferrari1-169.jpg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/I3h9Z89U9ZA" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/ford-v-ferrari-v716808" />
+        </film:movie>
+
+        <film:movie rdf:about="http://dbpedia.org/resource/The_Conjuring_2">
+            <film:id>15</film:id>
+            <rdfs:label>The Conjuring</rdfs:label>
+            <film:year>2016</film:year>
+            <film:desc>Ed and Lorraine Warren travel to North London to help a single mother raising four children alone in a house plagued by a supernatural spirit.
+            </film:desc>
+            <film:duration>2h 14m</film:duration>
+            <film:rating>7.3/10</film:rating>
+            <film:movierating>R</film:movierating>
+            <film:genreone>Horror</film:genreone>
+            <film:genretwo>Mystery</film:genretwo>
+            <film:genrethree>Thriller</film:genrethree>
+            <film:poster>http://assets.kompasiana.com/items/album/2016/06/21/conjuring-5768a74f329773b7038b456d.jpg</film:poster>
+            <film:trailer rdf:resource="https://www.youtube.com/embed/k10ETZ41q5o" />
+            <foaf:homepage rdf:resource="https://www.allmovie.com/movie/the-conjuring-2-v585192" />
+        </film:movie>
+
+</rdf:RDF>

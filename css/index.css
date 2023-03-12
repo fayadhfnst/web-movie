@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background: rgba(0, 0, 0, .7);
+}
+
+a {
+    text-decoration: none;
+}
+
+.container-content {
+    width: 1000px;
+    margin: 3rem auto 100px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.popular-movie {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.popular-movie img {
+    width:100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.movie-info {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.movie-info .movie-cover {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie-info .movie-cover img {
+    width:230px;
+    margin-top: -180px;
+}
+
+.movie-info .movie-synopsis {
+    width: 60%;
+}
+
+.current-movie {
+    width: 100%;
+    padding: 40px 20px;
+    margin-top: 45px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(161, 145, 145, 0.4);
+}
+
+.current-movie-info h3 {
+    color: aliceblue;
+    transition: 0.9s;
+}
+
+.current-movie-info h3:hover {
+    color:rgb(79, 173, 255);
+    transition: 0.9s;
+    transform: scale(1.2);
+}
+
+.current-movie-details {
+    width: 100%;
+    margin-top : 30px;
+    padding: 12px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.current-movie-details .movie-card {
+    width: 20%;
+    max-height: 220px;
+    margin: 10px 10px 50px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie-card a {
+    width: 100%;
+    height: 100%;
+}
+
+.movie-card a img {
+    width: 100%;
+    height: 100%;
+    transition: 0.5s;
+}
+
+.movie-card a img:hover {
+    transition: 0.5s;
+    transform: scale(1.2);
+}
