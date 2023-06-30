@@ -1,2 +1,2 @@
 # Web-Movie-Archive
-End of semster group work of Semantic Web Subject
+End of semester group work of Semantic Web Subject
